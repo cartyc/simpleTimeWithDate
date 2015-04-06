@@ -1,0 +1,17 @@
+{
+  "uuid": "d8b835a6-4ac5-4988-ac4f-ff3ba4216b39",
+  "shortName": "simpleTimeWithDate",
+  "longName": "simpleTimeWithDate",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
